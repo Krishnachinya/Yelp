@@ -1,0 +1,52 @@
+
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        padding: 30px 10px 10px 10px;
+        float: left;
+        height: 500px;
+        width: 600px;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      form.form-style{
+        margin: 10px 10px 30px 10px;
+
+      }
+      #list_items{
+        width: 400px;
+        padding: 10px 10px 10px 10px;
+        float:left;
+      }
+      #restaurants{
+          width: 380px;
+          padding: 10px 10px 10px 10px;
+          float: left;
+      }
+      .image_url{
+        float: right;
+        padding: 10px 10px 10px 10px;
+        text-align: baseline;
+      }
+      .rest_list{
+        padding: 5px 5px 5px 5px;
+        border: outset;
+      }
+      .rating_img_url{
+        display: block;
+      }
+      .snippet_text{
+        font-family: Arial, Verdana, sans-serif;
+        line-height: 1em;
+        color: #665544;
+        text-align: justify; 
+      }
+      .lblname{
+        font-family: Georgia, Times, serif;
+        padding-bottom: 10px;
+        text-transform: uppercase;
+      }
